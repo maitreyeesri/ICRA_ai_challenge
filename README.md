@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mecanum_sim
 Simple  mecanum robot simulation
 
@@ -20,4 +19,3 @@ Uses catkin build system: http://wiki.ros.org/catkin
 + roslaunch mecanum_sim mecanum.launch
 =======
 # ICRA_ai_challenge
->>>>>>> a9ab96fc4f50ae3d1a0e0eab20ede65176fb6216
